@@ -800,7 +800,7 @@ data/raw/*.csv
 Recommended repository name:
 
 ```text
-bangladesh-multi-tool-ai-agent
+https://github.com/Ferdaus71/bangladesh-multi-tool-ai-agent
 ```
 
 Recommended description:
